@@ -1,0 +1,9 @@
+h3{
+    background-color: yellow; color: black;
+}
+.quotes{
+    background-color: aqua; color: black;
+}
+#order{
+    background-color: red; color: white; border: 4px solid black;
+}
